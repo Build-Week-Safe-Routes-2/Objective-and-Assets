@@ -1,14 +1,5 @@
-# Essentialism
+# Safe Routes
 ![alt text](https://github.com/Build-Week-Safe-Routes-2/Objective-and-Assets/blob/master/images/takahiro-taguchi-_SKIDRiIEtk-unsplash.jpg "Logo Title Text 1")
-
-## Contributors
-
-|                                      [Roman Jordan](https://github.com/roman-jordan)                                     | 
-| :----------------------------------------------------------------------------------------------------------------------: | 
-|      [<img src="https://avatars0.githubusercontent.com/u/17465565?s=460&v=4" width = "200" />](https://github.com/roman-jordan)      | 
-|      [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/roman-jordan)                 | 
-| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/roman-jordan-102529126/)        | 
-
 
 ## PITCH
 * What are the most dangerous intersections in the city|state|country?  With this app users have the ability to avoid the most dangerous intersections in a given area.
@@ -42,4 +33,13 @@ ftp://ftp.nhtsa.dot.gov/fars/
 * [Culture Document](https://www.notion.so/Full-Time-Build-Sprint-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
 * [Trello Board](https://trello.com/b/Uh7xpQRw/build-week-safe-routes)
 * [Schedule and Daily Milestones](https://www.notion.so/6e719d512134435f8a89ca2862f8d3e7?v=6c8d3bd7bbcb44539f8659fc96caa906)
+
+## Contributors
+
+|                                      [Roman Jordan](https://github.com/roman-jordan)                                     | 
+| :----------------------------------------------------------------------------------------------------------------------: | 
+|      [<img src="https://avatars0.githubusercontent.com/u/17465565?s=460&v=4" width = "200" />](https://github.com/roman-jordan)      | 
+|      [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/roman-jordan)                 | 
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/roman-jordan-102529126/)        | 
+
 
