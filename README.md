@@ -15,31 +15,31 @@
 
 * Disclaimer: Are you hungry to learn new things and looking to create a story of how you overcame a challenge?  Web students that select this project will have to learn how to use an API or Libraries for the map part of this project.
 
-## Stretch:
-* Create a model that predicts where the next accident is most likely to occur."
 ## MVP
-### DS:
+#### DS:
 - Create a model that predicts the chances of a car accident at a given intersection
 
-### Web:
+#### Web:
 - Address / Intersection input field
 - Interactive Map showing crash statistic for a given intersection
 - Show historical crashes on the map for given time period
 - Visualization should indicate the likelihood of crashes at different locations
 -  MVP should have a limited geographic scope
 ## STRETCH
-### DS:
+#### DS:
 - Output a rank-ordered list of the most dangerous intersections
 - Create visualizations to highlight your analysis
+- Create a model that predicts where the next accident is most likely to occur."
 
-### Web:
+#### Web:
 - Ask user to use their location, if available.
 - Expand geographic scope of the map
-DESIGN LINKS / DATA SETS
-[The Data](ftp://ftp.nhtsa.dot.gov/fars/) 
+
+## DESIGN LINKS / DATA SETS
+* [The Data](ftp://ftp.nhtsa.dot.gov/fars/) 
 
 ### Useful Docs
 * [Culture Document](https://www.notion.so/Full-Time-Build-Sprint-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
-* [Trello Board](https://trello.com/buildweekessentialism1)
+* [Trello Board](https://trello.com/b/Uh7xpQRw/build-week-safe-routes)
 * [Schedule and Daily Milestones](https://www.notion.so/6e719d512134435f8a89ca2862f8d3e7?v=6c8d3bd7bbcb44539f8659fc96caa906)
 
