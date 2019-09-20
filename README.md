@@ -1,5 +1,5 @@
 # Essentialism
-![alt text](https://github.com/Build-Week-Essentialism-2/Objective-and-Assets/blob/master/Images/ravi-roshan-_AdUs32i0jc-unsplash.jpg "Logo Title Text 1")
+![alt text](https://github.com/Build-Week-Safe-Routes-2/Objective-and-Assets/blob/master/images/takahiro-taguchi-_SKIDRiIEtk-unsplash.jpg "Logo Title Text 1")
 
 ## Contributors
 
