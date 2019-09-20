@@ -1,2 +1,45 @@
-# Objective-and-Assets
-Objective and Assets
+# Essentialism
+![alt text](https://github.com/Build-Week-Essentialism-2/Objective-and-Assets/blob/master/Images/ravi-roshan-_AdUs32i0jc-unsplash.jpg "Logo Title Text 1")
+
+## Contributors
+
+|                                      [Roman Jordan](https://github.com/roman-jordan)                                     | 
+| :----------------------------------------------------------------------------------------------------------------------: | 
+|      [<img src="https://avatars0.githubusercontent.com/u/17465565?s=460&v=4" width = "200" />](https://github.com/roman-jordan)      | 
+|      [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/roman-jordan)                 | 
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/roman-jordan-102529126/)        | 
+
+
+## PITCH
+* What are the most dangerous intersections in the city|state|country?  With this app users have the ability to avoid the most dangerous intersections in a given area.
+
+* Disclaimer: Are you hungry to learn new things and looking to create a story of how you overcame a challenge?  Web students that select this project will have to learn how to use an API or Libraries for the map part of this project.
+
+## Stretch:
+* Create a model that predicts where the next accident is most likely to occur."
+## MVP
+### DS:
+- Create a model that predicts the chances of a car accident at a given intersection
+
+### Web:
+- Address / Intersection input field
+- Interactive Map showing crash statistic for a given intersection
+- Show historical crashes on the map for given time period
+- Visualization should indicate the likelihood of crashes at different locations
+-  MVP should have a limited geographic scope
+## STRETCH
+### DS:
+- Output a rank-ordered list of the most dangerous intersections
+- Create visualizations to highlight your analysis
+
+### Web:
+- Ask user to use their location, if available.
+- Expand geographic scope of the map
+DESIGN LINKS / DATA SETS
+[The Data](ftp://ftp.nhtsa.dot.gov/fars/) 
+
+### Useful Docs
+* [Culture Document](https://www.notion.so/Full-Time-Build-Sprint-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
+* [Trello Board](https://trello.com/buildweekessentialism1)
+* [Schedule and Daily Milestones](https://www.notion.so/6e719d512134435f8a89ca2862f8d3e7?v=6c8d3bd7bbcb44539f8659fc96caa906)
+
