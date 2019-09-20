@@ -44,7 +44,7 @@ ftp://ftp.nhtsa.dot.gov/fars/
 
 |                                      [Sarmen Sinanian](https://github.com/SarmenSinanian)                                     | 
 | :----------------------------------------------------------------------------------------------------------------------: | 
-|      [<img src="https://avatars0.githubusercontent.com/u/17465565?s=460&v=4" width = "200" />](https://github.com/sarmensinanian)    | 
+|      [<img src="https://avatars0.githubusercontent.com/u/52585634?s=460&v=4" width = "200" />](https://github.com/sarmensinanian)    | 
 |      [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/sarmensinanian)                 | 
 | [ <img src="https://avatars0.githubusercontent.com/u/52585634?s=460&v=4" width="15"> ](https://www.linkedin.com/in/sarmensinanian/)        | 
 
