@@ -36,7 +36,7 @@
 - Expand geographic scope of the map
 
 ## DESIGN LINKS / DATA SETS
-* [The Data](ftp://ftp.nhtsa.dot.gov/fars/) 
+ftp://ftp.nhtsa.dot.gov/fars/
 
 ### Useful Docs
 * [Culture Document](https://www.notion.so/Full-Time-Build-Sprint-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
