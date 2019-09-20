@@ -47,3 +47,9 @@ ftp://ftp.nhtsa.dot.gov/fars/
 |      [<img src="https://avatars0.githubusercontent.com/u/17465565?s=460&v=4" width = "200" />](https://github.com/roman-jordan)      | 
 |      [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/roman-jordan)                 | 
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/roman-jordan-102529126/)        | 
+
+|                                      [Nayomi Chibana](https://github.com/nchibana)                                     | 
+| :----------------------------------------------------------------------------------------------------------------------: | 
+|      [<img src="https://avatars0.githubusercontent.com/u/17465565?s=460&v=4" width = "200" />](https://github.com/nchibana)      | 
+|      [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/nchibana)                 | 
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/nchibana/)        | 
