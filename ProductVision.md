@@ -1,4 +1,4 @@
-[Product Vision](https://www.notion.so/bcc33f41ecc94cd395ebdbb4504b1f23)
+[Notion](https://www.notion.so/Full-Time-Build-Sprint-Culture-Document-19e679fc1a284b668d8132dd8d7228cd)
 
 Clone this document and answer the prompts to the best of your team's ability
 
@@ -8,19 +8,51 @@ Clone this document and answer the prompts to the best of your team's ability
 
 - What problem does your app solve?
 
+  - Users have the ability to avoid the most dangerous intersections in a given area.
+
 - Be as specific as possible; how does your app solve the problem?
 
+  - The area can include a city, state, or a country by displaying information to users to avoid congested or dangerous areas.
+
 - What is the mission statement?
+  - Make driving safer one interesection at a time with cloud-based and continuous integration machine learning to provide a user experience that is unparalleled. AWS.
 
 # Features
 
 ---
 
+## Web?
+
 - What features are required for your minimum viable product?
+
+  - Address / Intersection input field
+  - Interactive Map showing crash statistic for a given intersection
+  - Show historical crashes on the map for given time period
+  - Visualization should indicate the likelihood of crashes at different locations
+  - MVP should have a limited geographic scope
+
+- What features may you wish to put in a future release?
+  - Starting + ending destination and map the safest route
+
+* What do the top 3 similar apps do for their users?
+  - Google Maps
+  - Waze
+  - CrimeWatch
+
+## Data Science
+
+- What features are required for your minimum viable product?
+
+  - Create a model that predicts the odds of an accident occuring at a given interesction.
 
 - What features may you wish to put in a future release?
 
+  - Predict the odds for the any given state in the country
+
 - What do the top 3 similar apps do for their users?
+  - Google Maps
+  - Waze
+  - CrimeWatch
 
 # Design - Planning
 
@@ -33,9 +65,13 @@ _Please refer to this document:_
 
 - What design system will you use?
 
-- What will your user flow be?
+  - Figma
 
-- What is the URL to your wireframes?
+- What will your user flow be?
+  - Landing page -> Application
+
+* What is the URL to your wireframes?
+  - [NA](#)
 
 # Frameworks - Libraries
 
@@ -43,11 +79,20 @@ _Please refer to this document:_
 
 - What 3rd party frameworks/libraries are you considering using?
 
+  - Plotly, Google Maps/Wayze API, Axios, Formik, UI libs, Yup,
+  - Anaconda
+  - Express
+  - JWT
+  - Flask
+
 - Do APIs require you to contact its maintainer to gain access?
+  N/A
 
 - Are you required to pay to use the API?
+  N/A
 
 - Have you considered using Apple Frameworks? (MapKit, Healthkit, ARKit?)
+  Never
 
 # For Data Scientists
 
@@ -55,11 +100,18 @@ _Please refer to this document:_
 
 - Describe the Established data source with at least rough data able to be provided on day 1.
 
+  - NHTSA data set provided with airtable
+
 - You can gather information about the data set you’ll be working with from the project description. Be sure to collaborate with your PM, and your Backend Architect to chat about the resources you have.
 
-- Write a description for what the DS problem is (what uncertainty/prediction are we trying to do here? Sentiment analysis? Why is this a useful solution to a problem?)
+  - Ok
 
-- A target (e.g. JSON format or such) for output that DS students can deliver to web/other students for them to ingest and use in the app
+- Write a description for what the DS problem is (what uncertainty/prediction are we trying to do here? Sentiment analysis? Why is this a useful solution to a problem?)
+  - Predicting the rate of accidents at a given intersection and translating that into a danger rating
+  - Having a really high validity score so that we are confidently asserting that the rate of accidents will be accurate
+
+* A target (e.g. JSON format or such) for output that DS students can deliver to web/other students for them to ingest and use in the app
+  - JSON
 
 # Target Audience
 
@@ -67,7 +119,11 @@ _Please refer to this document:_
 
 - Who is your target audience? Be specific.
 
+  - The general public looking for disruptive, cloud-based applications to assist their day to day life.
+
 - What feedback have you gotten from potential users?
+
+  - This application sounds wonderful
 
 - Have you validated the problem and your solution with your target audience? How?
 
